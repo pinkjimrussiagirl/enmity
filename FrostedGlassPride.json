@@ -15,12 +15,12 @@
          "#FFFFFF"
       ],
       "HEADER_PRIMARY": [
-         "#FBFBFB",
-         "#060607"
+         "#FBFBFB00",
+         "#06060700"
       ],
       "HEADER_SECONDARY": [
-         "#B6B6B6",
-         "#4F5660"
+         "#B6B6B600",
+         "#4F566000"
       ],
       "TEXT_NORMAL": [
          "#FBFBFB",
@@ -132,7 +132,7 @@
       ]
    },
    "colours": {
-      "PRIMARY_DARK": "#74747400",
+      "PRIMARY_DARK": "#747474",
       "PRIMARY_DARK_100": "#FFFFFF",
       "PRIMARY_DARK_200": "#FFFFFF",
       "PRIMARY_DARK_300": "#B6B6B6",
