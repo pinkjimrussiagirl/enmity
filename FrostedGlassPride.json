@@ -5,22 +5,22 @@
   "color": "#000000",
   "authors": [
     {
-      "name": "mxdhav",
-      "id": "757530324686340197"
+      "name": "Pinky",
+      "id": "786835405764034560"
     }
    ],
    "theme_color_map": {
       "KEYBOARD": [
-         "#11111100",
-         "#FFFFFF00"
+         "transparent",
+         "transparent"
       ],
       "HEADER_PRIMARY": [
-         "#FBFBFB00",
-         "#06060700"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "HEADER_SECONDARY": [
-         "#B6B6B600",
-         "#4F566000"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "TEXT_NORMAL": [
          "#FBFBFB",
@@ -47,44 +47,44 @@
          "#C7CCD1"
       ],
       "BACKGROUND_PRIMARY": [
-         "#14141400",
-         "#FFFFFF00"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_SECONDARY": [
-         "#11111100",
-         "#F2F3F500"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-         "#0E0E0E00",
-         "#EBEDEF00"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_TERTIARY": [
-         "#0E0E0E00",
-         "#E3E5E800"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_ACCENT": [
-         "#29292900",
-         "#747F8D00"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_FLOATING": [
-         "#09090900",
-         "#FFFFFF00"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-         "#14141400",
-         "#F8F9F900"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-         "#11111100",
-         "#FFFFFF00"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "#11111100",
-         "#FFFFFF00"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-         "rgba(255, 255, 255, 0.02)",
-         "#FFFFFF"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
          "rgba(255, 255, 255, 0.02)",
@@ -127,23 +127,23 @@
          "#6A7480"
       ],
       "CHANNELS_DEFAULT": [
-         "#B6B6B6",
-         "#6A7480"
+         "rgba(0, 0, 0, 0.2)",
+         "rgba(0, 0, 0, 0.2)"
       ]
    },
    "colours": {
-      "PRIMARY_DARK": "#74747400",
-      "PRIMARY_DARK_100": "#FFFFFF00",
-      "PRIMARY_DARK_200": "#FFFFFF00",
-      "PRIMARY_DARK_300": "#B6B6B600",
-      "PRIMARY_DARK_360": "#C8C8C800",
-      "PRIMARY_DARK_400": "#58585800",
-      "PRIMARY_DARK_500": "#29292900",
-      "PRIMARY_DARK_600": "#11111100",
-      "PRIMARY_DARK_630": "#1F1F1F00",
-      "PRIMARY_DARK_700": "#09090900",
-      "PRIMARY_DARK_800": "#09090900",
-      "PRIMARY_DARK_900": "#09090900"
+      "PRIMARY_DARK": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_100": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_200": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_300": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_360": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_400": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_500": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_600": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_630": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_700": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_800": "rgba(0, 0, 0, 0.2)",
+      "PRIMARY_DARK_900": "rgba(0, 0, 0, 0.2)"
    },
   "background": {
     "blur": 2.5,
