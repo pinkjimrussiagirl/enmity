@@ -107,7 +107,7 @@
          "hsla(217, 7.6%, 33.5%, 0.3)"
       ],
       "SCROLLBAR_THIN_TRACK": [
-         "transparent",
+         "rgba(0, 0, 0, 0.4)",
          "hsla(0, 0%, 0%, 0)"
       ],
       "SCROLLBAR_AUTO_THUMB": [
@@ -119,8 +119,8 @@
          "#F2F2F2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-         "rgba(0, 0, 0, 0.3)",
-         "#EBEDEF"
+         "rgba(0, 0, 0, 0.4)",
+         "rgba(0, 0, 0, 0.4)"
       ],
       "CHANNEL_ICON": [
          "#B6B6B6",
@@ -147,7 +147,7 @@
    },
   "background": {
     "blur": 2.5,
-    "url": "",
+    "url": "https://cdn.discordapp.com/attachments/1206687705858056262/1242948803263463434/IMG_7485.jpg?ex=664fb1c7&is=664e6047&hm=d230f527c3a5f4793f9d3d64116550321087b0abbacbd2d907fc181a28a40eb6&",
     "alpha": 0.4
   }
 }
