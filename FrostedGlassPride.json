@@ -119,7 +119,7 @@
          "#F2F2F2"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-         "transparent",
+         "rgba(0, 0, 0, 0.3)",
          "#EBEDEF"
       ],
       "CHANNEL_ICON": [
@@ -132,18 +132,18 @@
       ]
    },
    "colours": {
-      "PRIMARY_DARK": "#747474",
-      "PRIMARY_DARK_100": "#FFFFFF",
-      "PRIMARY_DARK_200": "#FFFFFF",
-      "PRIMARY_DARK_300": "#B6B6B6",
-      "PRIMARY_DARK_360": "#C8C8C8",
-      "PRIMARY_DARK_400": "#585858",
-      "PRIMARY_DARK_500": "#292929",
-      "PRIMARY_DARK_600": "#111111",
-      "PRIMARY_DARK_630": "#1F1F1F",
-      "PRIMARY_DARK_700": "#090909",
-      "PRIMARY_DARK_800": "#090909",
-      "PRIMARY_DARK_900": "#090909"
+      "PRIMARY_DARK": "#74747400",
+      "PRIMARY_DARK_100": "#FFFFFF00",
+      "PRIMARY_DARK_200": "#FFFFFF00",
+      "PRIMARY_DARK_300": "#B6B6B600",
+      "PRIMARY_DARK_360": "#C8C8C800",
+      "PRIMARY_DARK_400": "#58585800",
+      "PRIMARY_DARK_500": "#29292900",
+      "PRIMARY_DARK_600": "#11111100",
+      "PRIMARY_DARK_630": "#1F1F1F00",
+      "PRIMARY_DARK_700": "#09090900",
+      "PRIMARY_DARK_800": "#09090900",
+      "PRIMARY_DARK_900": "#09090900"
    },
   "background": {
     "blur": 2.5,
