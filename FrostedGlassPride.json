@@ -11,8 +11,8 @@
    ],
    "theme_color_map": {
       "KEYBOARD": [
-         "#111111",
-         "#FFFFFF"
+         "#11111100",
+         "#FFFFFF00"
       ],
       "HEADER_PRIMARY": [
          "#FBFBFB00",
@@ -47,40 +47,40 @@
          "#C7CCD1"
       ],
       "BACKGROUND_PRIMARY": [
-         "#141414",
-         "#FFFFFF"
+         "#14141400",
+         "#FFFFFF00"
       ],
       "BACKGROUND_SECONDARY": [
-         "#111111",
-         "#F2F3F5"
+         "#11111100",
+         "#F2F3F500"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-         "#0E0E0E",
-         "#EBEDEF"
+         "#0E0E0E00",
+         "#EBEDEF00"
       ],
       "BACKGROUND_TERTIARY": [
-         "#0E0E0E",
-         "#E3E5E8"
+         "#0E0E0E00",
+         "#E3E5E800"
       ],
       "BACKGROUND_ACCENT": [
-         "#292929",
-         "#747F8D"
+         "#29292900",
+         "#747F8D00"
       ],
       "BACKGROUND_FLOATING": [
-         "#090909",
-         "#FFFFFF"
+         "#09090900",
+         "#FFFFFF00"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-         "#141414",
-         "#F8F9F9"
+         "#14141400",
+         "#F8F9F900"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-         "#111111",
-         "#FFFFFF"
+         "#11111100",
+         "#FFFFFF00"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-         "#111111",
-         "#FFFFFF"
+         "#11111100",
+         "#FFFFFF00"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
          "rgba(255, 255, 255, 0.02)",
